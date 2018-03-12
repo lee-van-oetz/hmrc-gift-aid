@@ -1,8 +1,8 @@
 {
-    "name": "justinbusschau/hmrc-gift-aid",
+    "name": "lee-van-oetz/hmrc-gift-aid",
     "type": "library",
     "description": "A library for charities and CASCs to claim Gift Aid (including Small Donations) from HMRC",
-    "homepage": "https://github.com/justinbusschau/hmrc-gift-aid",
+    "homepage": "https://github.com/lee-van-oetz/hmrc-gift-aid",
     "license": "GPLv3",
     "authors": [
         {
